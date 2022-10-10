@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lozumi!
+- 👋 Hi, I’m @Lozumi
 - 🏫 I'm now studying in NPU.
 - 👀 I’m interested in ACM contest,web design,program design,etc.
 - 🌱 I’m currently learning C++ and Python.
