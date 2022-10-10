@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Lozumi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Lozumi!
+- 🏫 I'm now studying in NPU.
+- 👀 I’m interested in ACM contest,web design,program design,etc.
+- 🌱 I’m currently learning C++ and Python.
+- 📫 Contact me through lozumi@qq.com.
 
 <!---
 Lozumi/Lozumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
