@@ -6,7 +6,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lozumi)](https://github.com/anuraghazra/github-readme-stats)  
+![Lozumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lozumi&show_icons=true&theme=rose&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lozumi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Lozumi/Lozumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
